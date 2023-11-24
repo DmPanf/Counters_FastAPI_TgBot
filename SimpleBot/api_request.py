@@ -4,7 +4,6 @@ import requests
 import os
 
 # Переходим в нужную директорию
-#os.chdir('/home/bunta/ARCHIVE/Projects.Python/3.Screening_System/y2.Simple.FastAPI-models/images')
 os.chdir('./images')
 print("\n\nCurrent Directory:", os.getcwd())
 
